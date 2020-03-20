@@ -7,6 +7,6 @@ Golang project template builder for me
 <img src="./demo.gif" />
 
 ```sh
-$ go get github.com/Akatsuki-py/letsgo/letsgo
+$ go get github.com/Akatsuki-py/letsgo/cmd
 $ letsgo <PROJECT_NAME>
 ```
